@@ -1,0 +1,26 @@
+[
+    {
+        "chinese": "我",
+        "english": "me",
+        "user_answer": "",
+        "count": 1
+    },
+    {
+        "chinese": "周杰伦",
+        "english": "Jay Chou",
+        "user_answer": "",
+        "count": 1
+    },
+    {
+        "chinese": "我想要知道是否你是周杰伦",
+        "english": "I want to know if you are Jay Chou",
+        "user_answer": "        ",
+        "count": 2
+    },
+    {
+        "chinese": "说话",
+        "english": "to talk",
+        "user_answer": "",
+        "count": 1
+    }
+]
